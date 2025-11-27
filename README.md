@@ -1,4 +1,4 @@
-This is the GitHub SUBMISSION 5 Repository for the Fall 2025 project of CIS6530 - Cyber Threat Intelligence and Adversarial Risk Analysis of the MCTI at the University of Guelph.
+This is the GitHub FINAL SUBMISSION 5 Repository for the Fall 2025 project of CIS6530 - Cyber Threat Intelligence and Adversarial Risk Analysis of the MCTI at the University of Guelph.
 
 Contributors:
 
